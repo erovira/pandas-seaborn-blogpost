@@ -1,5 +1,0 @@
-[packages]
-pandas = "*"
-seaborn = "*"
-jupyter = "*"
-notebook = "*"

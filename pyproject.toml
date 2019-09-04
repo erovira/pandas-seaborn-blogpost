@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pandas-seaborn-blogpost"
+version = "0.1.0"
+description = "Updated code examples from the Pandas blogpost in Tryolabs' blog"
+authors = ["Eugenio"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pandas = "*"
+seaborn = "*"
+jupyter = "*"
+
+[tool.poetry.dev-dependencies]
+flake8 = "*"
+black = "==19.3b0"
